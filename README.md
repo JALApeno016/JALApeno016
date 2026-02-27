@@ -4,6 +4,7 @@ Aspiring Web Developer focused on building clean, functional, and beginner-frien
 Currently strengthening my skills in front-end and back-end web development while building real projects to grow my portfolio.
 
 🛠️ Technical Skills
+
 🌐 Front-End
 
 HTML
