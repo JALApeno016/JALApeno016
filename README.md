@@ -1,16 +1,66 @@
-## Hi there 👋
+👋 Hi, I’m Jill Anne Arcilla. You can call me JALA.
 
-<!--
-**JALApeno016/JALApeno016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Web Developer focused on building clean, functional, and beginner-friendly web applications.
+Currently strengthening my skills in front-end and back-end web development while building real projects to grow my portfolio.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+🌐 Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+
+CSS
+
+JavaScript
+
+jQuery
+
+EJS
+
+DOM Manipulation
+
+CSS Grid
+
+Flexbox
+
+Bootstrap
+
+⚙️ Back-End
+
+Node.js
+
+Express.js
+
+💻 Programming Languages
+
+Java
+
+C
+
+C++
+
+🔄 Version Control
+
+Git
+
+GitHub
+
+
+🚀 What I’m Working On
+
+Building beginner-to-intermediate web projects
+
+Improving full-stack fundamentals
+
+Writing clean, readable, and well-documented code
+
+🎯 Goals
+
+Gain hands-on experience through real-world projects
+
+Build a strong developer portfolio
+
+Prepare for a junior web developer role
+
+📫 Let’s Connect
+
+GitHub: https://github.com/JALApeno016
